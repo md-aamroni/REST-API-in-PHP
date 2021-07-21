@@ -1,5 +1,5 @@
 ## RESTFUL API in PHP
-
+![RESTful API Workflow](./public/restapi.png)
 
 ```bash
 $ composer update

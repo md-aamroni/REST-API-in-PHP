@@ -1,5 +1,7 @@
 {
-    "name": "user/rest-api-in-php",
+    "name": "aamroni/rest-api-in-php",
+	 "license": "MIT",
+	 "description": "RESTful API Authorization and Validation using PHP",
     "authors": [{
         "name": "Abdullah Al Mamun Roni",
         "email": "md.aamroni@gmail.com",
